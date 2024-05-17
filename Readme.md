@@ -1,0 +1,1 @@
+Para executar os testes da pasta __tests__ deve ser rodado o npm install e rodar o comando npm test na pasta root do projeto.
